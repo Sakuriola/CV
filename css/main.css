@@ -132,6 +132,19 @@ footer a:not(.nav-link) {
 	text-decoration: none;
 }
 
+.progress-subtitle {
+	font-style: italic;
+	color: #6c757d;
+}
+
+.link-route {
+	color: #6c757d;
+	text-decoration: none;
+}
+.link-route:hover {
+	color: #434a54;
+}
+
 @media (min-width: 48em) {
 	.site-title {
 		float: left;
