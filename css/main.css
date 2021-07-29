@@ -139,7 +139,7 @@ footer a:not(.nav-link) {
 
 .link-route {
 	color: #6c757d;
-	text-decoration: none;
+	text-decoration: none !important;
 }
 .link-route:hover {
 	color: #434a54;
